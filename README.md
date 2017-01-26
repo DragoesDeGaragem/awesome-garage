@@ -22,4 +22,8 @@ Coletania de links, tutoriais e outras referências para quem coneça a programa
 
   - [Python Tutor](http://pythontutor.com/)
   
- 
+## Podasts:
+
+ - [``Podcast.__init__``](https://www.podcastinit.com/)
+ - [``from podcast import python``](http://frompythonimportpodcast.com/)
+ - [Talk Python To Me](https://talkpython.fm/)
