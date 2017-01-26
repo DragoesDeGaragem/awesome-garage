@@ -17,6 +17,7 @@ Coletania de links, tutoriais e outras referências para quem coneça a programa
 
   - [CodeSchool](https://www.codeschool.com/learn/python)
   - [Codecademy](https://www.codecademy.com/learn/python)
+  - [Python Para Zumbis](https://www.pycursos.com/python-para-zumbis/) - Professor Fernando Masanori (FATEC-SP)
   
 ## Ferramentas:
 
