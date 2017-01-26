@@ -10,6 +10,7 @@ Coletania de links, tutoriais e outras referências para quem coneça a programa
  - [Data Carpentry](http://www.datacarpentry.org/lessons/)
  - [Instalação Python Notebook](http://jupyter.readthedocs.io/en/latest/install.html)
  - [Fazendo um Bot para Telegram em Python](https://juliarizza.wordpress.com/2016/08/06/fazendo-um-bot-para-telegram-em-python/)
+ - [Python Telegram Bot](https://python-telegram-bot.org/)
 
 ## Git:
   - [Try Git](http://try.github.io/)
