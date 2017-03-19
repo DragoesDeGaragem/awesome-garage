@@ -12,7 +12,8 @@ Coletania de links, tutoriais e outras referências para quem coneça a programa
  - [Fazendo um Bot para Telegram em Python](https://juliarizza.wordpress.com/2016/08/06/fazendo-um-bot-para-telegram-em-python/)
  - [Python Telegram Bot](https://python-telegram-bot.org/)
  - [Learn Python 3 de Hard Way](https://learnpythonthehardway.org/python3/)
-
+ - [Guia do Mochileiro para Python](http://python-guide-pt-br.readthedocs.io/pt_BR/latest/). Tradução em andamento.
+ 
 ## Git:
   - [Try Git](http://try.github.io/)
 
